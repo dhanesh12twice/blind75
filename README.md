@@ -1,1 +1,1 @@
-# blind75
+Blind 75, the concentrated 75 problems diversified on various datastructure and algorithms. In this repo, Im trying to solve this and upload the solution to github regularly.
